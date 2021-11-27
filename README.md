@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chrischramb
+- 👋 Hi, I’m @Chris
 - 👀 I’m interested in enjoying every moment of the life  
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on 
